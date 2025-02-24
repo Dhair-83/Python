@@ -20,15 +20,15 @@ t.forward(210)
 
 t.penup()
 t.right(150)
-t.forward(50)
+t.forward(105)
 
 #secondtriangle
 t.pendown()
 t.right(90)
 t.forward(210)
 t.right(120)
-t.forward(100)
+t.forward(210)
 t.right(120)
-t.forward(100)
+t.forward(210)
 
 turtle.done()
