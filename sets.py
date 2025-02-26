@@ -11,3 +11,11 @@ print("\n", s1.difference(s2))
 print(s1.symmetric_difference(s2))
 print(s1.union(s2))
 print(s1.intersection(s2))
+
+w1={"Samsung","Google","Xiaomi","Apple","Sony","Nokia"}
+w2={"Samsung","Apple","Google","Lenovo","Alienware"}
+print("\n w1:", w1)
+print("w2:", w2)
+
+print("\n",w1.union(w2))
+print(w1.intersection(w2))
